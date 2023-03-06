@@ -103,7 +103,7 @@ console.log("hello");
 
 ### automatic link
 
-http://www.studywithanis.com
+http://www.
 
 ### disable link
 
