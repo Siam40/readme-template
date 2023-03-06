@@ -123,7 +123,7 @@ http://www.
 ### image syntax
 
 <!-- ![profile](./images/me.jpg) -->
-<img src="./images/me.JPG" width="400" title="profile image"/>
+<img src="./me.JPG" width="400" title="profile image"/>
 😊
 
 <br/>
